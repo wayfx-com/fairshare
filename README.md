@@ -2,6 +2,12 @@
 
 We surface, rebuild, and release the tools merchants overpay for—free.
 
+## Enable Background Processes (Required for Ralph Loop)
+Option A (recommended):
+1. Run `droid`
+2. Enter `/settings`
+3. Toggle **Allow background processes** to true
+
 ## Factory Steps
 1. Wallet/store audit
 2. Rank apps by spend (highest → lowest)
